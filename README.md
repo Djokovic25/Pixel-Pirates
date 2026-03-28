@@ -19,7 +19,6 @@ Film → smothers ecosystems
 
 👉 There is no automated system to analyze morphology + size + risk at scale
 
-![Input](assets/input.png)
 
 🎯 Our Solution
 
@@ -40,7 +39,7 @@ Our Hybrid Model	✅ Detection + Understanding + Measurement
 
 We combine YOLO (detection) + CNN (classification) + Contour Geometry (measurement)
 
-![Detection](assets/detection.png)
+![GradCAM](gradcam-image.png)
 
  Key Features
 
@@ -65,7 +64,6 @@ Pellet (optional)
 Uses Feret Diameter
 Based on contour geometry
 More accurate than bounding box
-![Feret](assets/feret.png)
 
 
 📐 Scale Calibration
@@ -73,12 +71,11 @@ Convert pixels → micrometers (µm)
 User-defined reference scale
 Enables real-world scientific measurement
 
-![Calibration](assets/calibration.png)
+![Calibration](scalre-calibrate.png)
 🔥 Explainable AI (Grad-CAM)
 Visual heatmaps showing decision regions
 Improves trust and interpretability
 
-![GradCAM](gradcam-image.png)
 
 🧪 Interactive Particle Inspector
 Click on any particle
@@ -88,7 +85,7 @@ Class + confidence
 Size (µm)
 Risk score
 Explanation heatmap
-![Inspection](microplastic-evaluation.png)
+![Inspection](microplastic -evaluation.png)
 
 📊 Ecological Risk Index
 Combines:
