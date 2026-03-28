@@ -78,7 +78,7 @@ Enables real-world scientific measurement
 Visual heatmaps showing decision regions
 Improves trust and interpretability
 
-![GradCAM](assets/gradcam.png)
+![GradCAM](gradcam-image.png)
 
 🧪 Interactive Particle Inspector
 Click on any particle
