@@ -1,8 +1,8 @@
-🌊** Microplastic Risk Intelligence System**
+# Microplastic Risk Intelligence System
 
 AI-powered system for detecting, classifying, measuring, and analyzing microplastics using computer vision and explainable AI.
 
-🚨 Problem Statement
+# Problem Statement
 
 Microplastics (<5mm) are found in oceans, rivers, and even drinking water.
 Current identification methods are:
@@ -18,6 +18,7 @@ Fragment → releases toxins
 Film → smothers ecosystems
 
 👉 There is no automated system to analyze morphology + size + risk at scale
+
 ![Input](assets/input.png)
 
 🎯 Our Solution
@@ -31,15 +32,16 @@ Converts to real-world size using scale calibration
 Generates an Ecological Threat Index (0–100)
 Provides interactive + explainable analysis
 
-🧠** Why Our Approach is Unique
+ Why Our Approach is Unique
 Approach	Limitation
 YOLO only	Detection without deep understanding
 CNN only	Classification without localization
 Our Hybrid Model	✅ Detection + Understanding + Measurement
 
 We combine YOLO (detection) + CNN (classification) + Contour Geometry (measurement)
-**
+
 ![Detection](assets/detection.png)
+
  Key Features
 
 1. Multi-Particle Detection
