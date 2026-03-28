@@ -93,14 +93,20 @@ Morphology
 Size
 Outputs risk score (0–100)
 <img width="1669" height="725" alt="Screenshot 2026-03-28 165342" src="https://github.com/user-attachments/assets/fe80cdc5-e016-4d18-adda-b02dd7607eac" />
+<img width="1661" height="855" alt="Screenshot 2026-03-28 165428" src="https://github.com/user-attachments/assets/5c2e2cb2-4f74-4b1c-a52b-f2b5b8d4d78b" />
+<img width="1853" height="943" alt="Screenshot 2026-03-28 164408" src="https://github.com/user-attachments/assets/e92447fd-1d59-417e-9cf6-46fa9c8e251f" />
+
+
 
 
 📂 Batch Processing
 Upload multiple images
+
 Get:
 Distribution of particle types
 Average risk
 Summary insights
+
 
 
 📄 Report Generation
