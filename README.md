@@ -92,6 +92,8 @@ Combines:
 Morphology
 Size
 Outputs risk score (0–100)
+<img width="1669" height="725" alt="Screenshot 2026-03-28 165342" src="https://github.com/user-attachments/assets/fe80cdc5-e016-4d18-adda-b02dd7607eac" />
+
 
 📂 Batch Processing
 Upload multiple images
@@ -99,6 +101,7 @@ Get:
 Distribution of particle types
 Average risk
 Summary insights
+
 
 📄 Report Generation
 CSV download
