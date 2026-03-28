@@ -88,7 +88,7 @@ Class + confidence
 Size (µm)
 Risk score
 Explanation heatmap
-
+![Inspection](microplastic-evaluation.png)
 
 📊 Ecological Risk Index
 Combines:
